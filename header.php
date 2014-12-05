@@ -72,13 +72,9 @@
 					if(isset($advertisingwidgets['header-advertisement-widget']) && count($advertisingwidgets['header-advertisement-widget'])>0){?>
                         <div class="rightheader">
                             <div class="widget widget_text">
-                                <div class="textwidget">
-                                    <div class="ads-banner">
-                                        <div class="top_banner">
-                                        <?php if (!function_exists('dynamic_sidebar') || !dynamic_sidebar('header-advertisement-widget')) : ?><?php endif; ?>
-                                        </div>
-                                    </div>
-                                </div>
+                                <!-- www.TuTiempo.net - Ancho:454px - Alto:91px -->
+<div id="TT_vyJEEkkk1Eh9dQGA7fuzzjzDzWaATE1FLtkdksi5Kkz5353Im"><a href="http://www.tutiempo.net">El Tiempo</a></div>
+<script type="text/javascript" src="http://www.tutiempo.net/widget/eltiempo_vyJEEkkk1Eh9dQGA7fuzzjzDzWaATE1FLtkdksi5Kkz5353Im"></script>
                             </div>
                         </div>
                     <?php }?>
